@@ -1,5 +1,7 @@
 # My-Top-10-Movies-Website
 
+A beautiful website that lists our top 10 films of all time. As we watch more movies, we can always update our list and keep track of which movies to recommend people.
+
 # ScreenShots
 
 * Homepage
@@ -30,4 +32,7 @@
 	
 	* You will need to read the documentation on The Movie Database to figure out how to request for movie data by making a search query.
 	https://developers.themoviedb.org/3/search/search-movies
+
+# Steps to run 
+
 
