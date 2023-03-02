@@ -16,3 +16,7 @@
 * Update
 
 ![image](https://img-b.udemycdn.com/redactor/raw/2020-10-06_16-47-23-de3d98ffea2e62f597b3e8775896c3ce.gif)
+
+# Requirements
+ * you will need to create a [secret key ](https://stackoverflow.com/questions/22463939/demystify-flask-app-secret-key) in your main.py
+ * 
