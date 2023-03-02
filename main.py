@@ -7,12 +7,12 @@ from wtforms.validators import DataRequired
 import requests
 
 app = Flask(__name__)
-app.config['SECRET_KEY'] = '8BYkEfBA6O6donzWlSihBXox7C0sKR6b'
+app.config['SECRET_KEY'] = 'YOURSECRETKEY'
 Bootstrap(app)
 
 
 ## API REQUIREDMENTS
-APIKEY="029f8c4a84ad3ec4917519d725c2d344"
+APIKEY="YOUR API KEY"
 APIURL="https://api.themoviedb.org/3/search/movie"
 
 ###FIND MOVIES REQUIREMENT
