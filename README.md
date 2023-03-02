@@ -34,5 +34,7 @@ A beautiful website that lists our top 10 films of all time. As we watch more mo
 	https://developers.themoviedb.org/3/search/search-movies
 
 # Steps to run 
+ To start the server, run main.py on your code editor,
 
+The server will start running on http://127.0.0.1:5000
 
