@@ -30,8 +30,7 @@ A beautiful website that lists our top 10 films of all time. As we watch more mo
  
    ![image](https://user-images.githubusercontent.com/126648429/222347611-4ccb0400-7930-48f1-82dc-82de3b6f0313.png)
 	
-	* You will need to read the documentation .
-	https://developers.themoviedb.org/3/search/search-movies
+	
 
 # Steps to run 
  To start the server, run main.py on your code editor,
